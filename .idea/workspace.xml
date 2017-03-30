@@ -10,119 +10,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="29c78049-0cd8-4235-89a4-110c3fc1793e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/master/bin/Master" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/master/cmake-build-debug/CMakeFiles/3.7.1/CMakeDetermineCompilerABI_C.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/master/cmake-build-debug/CMakeFiles/3.7.1/CMakeDetermineCompilerABI_CXX.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/master/cmake-build-debug/CMakeFiles/3.7.1/CompilerIdC/a.out" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/master/cmake-build-debug/CMakeFiles/3.7.1/CompilerIdCXX/a.out" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/master/cmake-build-debug/CMakeFiles/feature_tests.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/bin/Newcaps" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/bin/Newcaps2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/bin/u928" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/cmake-build-debug/CMakeFiles/3.7.1/CMakeDetermineCompilerABI_C.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/cmake-build-debug/CMakeFiles/3.7.1/CMakeDetermineCompilerABI_CXX.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/cmake-build-debug/CMakeFiles/3.7.1/CompilerIdC/a.out" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/cmake-build-debug/CMakeFiles/3.7.1/CompilerIdCXX/a.out" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/cmake-build-debug/CMakeFiles/Newcaps.dir/Newcaps.cpp.o" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/cmake-build-debug/CMakeFiles/Newcaps.dir/checksum.c.o" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/cmake-build-debug/CMakeFiles/Newcaps.dir/hash.c.o" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/cmake-build-debug/CMakeFiles/Newcaps.dir/http_parser.c.o" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/cmake-build-debug/CMakeFiles/Newcaps.dir/ip_fragment.c.o" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/cmake-build-debug/CMakeFiles/Newcaps.dir/ip_options.c.o" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/cmake-build-debug/CMakeFiles/Newcaps.dir/libnids.c.o" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/cmake-build-debug/CMakeFiles/Newcaps.dir/tcp.c.o" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/cmake-build-debug/CMakeFiles/Newcaps.dir/util.c.o" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/cmake-build-debug/CMakeFiles/feature_tests.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/master/CMakeLists.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/master/Master.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/master/Master.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/master/Protocol.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/master/cmake-build-debug/CMakeCache.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/master/cmake-build-debug/CMakeFiles/3.7.1/CMakeCCompiler.cmake" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/master/cmake-build-debug/CMakeFiles/3.7.1/CMakeCXXCompiler.cmake" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/master/cmake-build-debug/CMakeFiles/3.7.1/CMakeSystem.cmake" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/master/cmake-build-debug/CMakeFiles/3.7.1/CompilerIdC/CMakeCCompilerId.c" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/master/cmake-build-debug/CMakeFiles/3.7.1/CompilerIdCXX/CMakeCXXCompilerId.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/master/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/master/cmake-build-debug/CMakeFiles/CMakeOutput.log" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/master/cmake-build-debug/CMakeFiles/Makefile.cmake" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/master/cmake-build-debug/CMakeFiles/Makefile2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/master/cmake-build-debug/CMakeFiles/Master.dir/DependInfo.cmake" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/master/cmake-build-debug/CMakeFiles/Master.dir/build.make" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/master/cmake-build-debug/CMakeFiles/Master.dir/cmake_clean.cmake" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/master/cmake-build-debug/CMakeFiles/Master.dir/depend.make" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/master/cmake-build-debug/CMakeFiles/Master.dir/flags.make" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/master/cmake-build-debug/CMakeFiles/Master.dir/link.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/master/cmake-build-debug/CMakeFiles/Master.dir/progress.make" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/master/cmake-build-debug/CMakeFiles/TargetDirectories.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/master/cmake-build-debug/CMakeFiles/clion-environment.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/master/cmake-build-debug/CMakeFiles/clion-log.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/master/cmake-build-debug/CMakeFiles/cmake.check_cache" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/master/cmake-build-debug/CMakeFiles/feature_tests.c" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/master/cmake-build-debug/CMakeFiles/feature_tests.cxx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/master/cmake-build-debug/CMakeFiles/progress.marks" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/master/cmake-build-debug/Makefile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/master/cmake-build-debug/Master.cbp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/master/cmake-build-debug/cmake_install.cmake" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/master/hash.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/master/logger.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/master/socket.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/master/socket.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/CMakeLists.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/Newcaps.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/checksum.c" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/checksum.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/cmake-build-debug/CMakeCache.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/cmake-build-debug/CMakeFiles/3.7.1/CMakeCCompiler.cmake" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/cmake-build-debug/CMakeFiles/3.7.1/CMakeCXXCompiler.cmake" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/cmake-build-debug/CMakeFiles/3.7.1/CMakeSystem.cmake" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/cmake-build-debug/CMakeFiles/3.7.1/CompilerIdC/CMakeCCompilerId.c" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/cmake-build-debug/CMakeFiles/3.7.1/CompilerIdCXX/CMakeCXXCompilerId.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/cmake-build-debug/CMakeFiles/CMakeOutput.log" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/cmake-build-debug/CMakeFiles/Makefile.cmake" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/cmake-build-debug/CMakeFiles/Makefile2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/cmake-build-debug/CMakeFiles/Newcaps.dir/C.includecache" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/cmake-build-debug/CMakeFiles/Newcaps.dir/CXX.includecache" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/cmake-build-debug/CMakeFiles/Newcaps.dir/DependInfo.cmake" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/cmake-build-debug/CMakeFiles/Newcaps.dir/build.make" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/cmake-build-debug/CMakeFiles/Newcaps.dir/cmake_clean.cmake" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/cmake-build-debug/CMakeFiles/Newcaps.dir/depend.internal" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/cmake-build-debug/CMakeFiles/Newcaps.dir/depend.make" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/cmake-build-debug/CMakeFiles/Newcaps.dir/flags.make" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/cmake-build-debug/CMakeFiles/Newcaps.dir/link.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/cmake-build-debug/CMakeFiles/Newcaps.dir/progress.make" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/cmake-build-debug/CMakeFiles/TargetDirectories.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/cmake-build-debug/CMakeFiles/clion-environment.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/cmake-build-debug/CMakeFiles/clion-log.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/cmake-build-debug/CMakeFiles/cmake.check_cache" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/cmake-build-debug/CMakeFiles/feature_tests.c" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/cmake-build-debug/CMakeFiles/feature_tests.cxx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/cmake-build-debug/CMakeFiles/progress.marks" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/cmake-build-debug/Makefile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/cmake-build-debug/Newlibs.cbp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/cmake-build-debug/cmake_install.cmake" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/config.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/dns.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/hash.c" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/hash.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/http_parser.c" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/http_parser.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/http_test.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/ip_fragment.c" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/ip_fragment.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/ip_options.c" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/libnids.c" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/libnids.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/nids.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/socketinterface.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/tcp.c" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/tcp.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/util.c" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/util.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/picture/p2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/picture/p3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/picture/p4.png" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -143,8 +33,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="316" />
-    <option name="y" value="51" />
+    <option name="x" value="693" />
+    <option name="y" value="197" />
     <option name="width" value="1317" />
     <option name="height" value="920" />
   </component>
@@ -175,6 +65,20 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Newlib" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.CidrFilesViewHelper$MyProjectTreeStructure$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Newlib" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="picture" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -185,6 +89,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/server" />
       <recent name="$PROJECT_DIR$/master" />
     </key>
@@ -387,15 +292,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1490877076878</updated>
-      <workItem from="1490877078153" duration="127000" />
+      <workItem from="1490877078153" duration="233000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="127000" />
+    <option name="totallyTimeSpent" value="233000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="316" y="51" width="1317" height="920" extended-state="0" />
+    <frame x="693" y="197" width="1317" height="920" extended-state="0" />
     <layout>
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24981017" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
