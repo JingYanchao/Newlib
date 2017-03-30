@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Newlibs"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/jyc/myproject/Newlibs/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/jyc/myproject/Newlibs/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/jyc/myproject/Newlibs/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/jyc/myproject/Newlibs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/jyc/myproject/Newlibs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/jyc/myproject/Newlibs/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/jyc/myproject/Newlibs/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/jyc/myproject/Newlibs/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/jyc/myproject/Newlibs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/jyc/myproject/Newlibs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/jyc/myproject/Newlibs/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/jyc/myproject/Newlibs/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/jyc/myproject/Newlibs/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/jyc/myproject/Newlibs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/jyc/myproject/Newlibs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Newcaps">
+				<Option output="/home/jyc/myproject/Newlibs/bin/Newcaps" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/jyc/myproject/Newlibs/bin/"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/glib-2.0/include"/>
+					<Add directory="/usr/lib/x86_64-linux-gnu/glib-2.0/include"/>
+					<Add directory="/usr/include/glib-2.0"/>
+					<Add directory="/usr/include/c++/4.8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/4.8"/>
+					<Add directory="/usr/include/c++/4.8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/jyc/myproject/Newlibs/cmake-build-debug/Makefile&quot;  VERBOSE=1 Newcaps"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/jyc/myproject/Newlibs/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/jyc/myproject/Newlibs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/jyc/myproject/Newlibs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Newcaps/fast">
+				<Option output="/home/jyc/myproject/Newlibs/bin/Newcaps" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/jyc/myproject/Newlibs/bin/"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/glib-2.0/include"/>
+					<Add directory="/usr/lib/x86_64-linux-gnu/glib-2.0/include"/>
+					<Add directory="/usr/include/glib-2.0"/>
+					<Add directory="/usr/include/c++/4.8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/4.8"/>
+					<Add directory="/usr/include/c++/4.8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/jyc/myproject/Newlibs/cmake-build-debug/Makefile&quot;  VERBOSE=1 Newcaps/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/jyc/myproject/Newlibs/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/jyc/myproject/Newlibs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/jyc/myproject/Newlibs/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/jyc/myproject/Newlibs/Newcaps.cpp">
+			<Option target="Newcaps"/>
+		</Unit>
+		<Unit filename="/home/jyc/myproject/Newlibs/checksum.c">
+			<Option target="Newcaps"/>
+		</Unit>
+		<Unit filename="/home/jyc/myproject/Newlibs/checksum.h">
+			<Option target="Newcaps"/>
+		</Unit>
+		<Unit filename="/home/jyc/myproject/Newlibs/config.h">
+			<Option target="Newcaps"/>
+		</Unit>
+		<Unit filename="/home/jyc/myproject/Newlibs/dns.h">
+			<Option target="Newcaps"/>
+		</Unit>
+		<Unit filename="/home/jyc/myproject/Newlibs/hash.c">
+			<Option target="Newcaps"/>
+		</Unit>
+		<Unit filename="/home/jyc/myproject/Newlibs/hash.h">
+			<Option target="Newcaps"/>
+		</Unit>
+		<Unit filename="/home/jyc/myproject/Newlibs/http_parser.c">
+			<Option target="Newcaps"/>
+		</Unit>
+		<Unit filename="/home/jyc/myproject/Newlibs/http_parser.h">
+			<Option target="Newcaps"/>
+		</Unit>
+		<Unit filename="/home/jyc/myproject/Newlibs/http_test.h">
+			<Option target="Newcaps"/>
+		</Unit>
+		<Unit filename="/home/jyc/myproject/Newlibs/ip_fragment.c">
+			<Option target="Newcaps"/>
+		</Unit>
+		<Unit filename="/home/jyc/myproject/Newlibs/ip_fragment.h">
+			<Option target="Newcaps"/>
+		</Unit>
+		<Unit filename="/home/jyc/myproject/Newlibs/ip_options.c">
+			<Option target="Newcaps"/>
+		</Unit>
+		<Unit filename="/home/jyc/myproject/Newlibs/libnids.c">
+			<Option target="Newcaps"/>
+		</Unit>
+		<Unit filename="/home/jyc/myproject/Newlibs/libnids.h">
+			<Option target="Newcaps"/>
+		</Unit>
+		<Unit filename="/home/jyc/myproject/Newlibs/nids.h">
+			<Option target="Newcaps"/>
+		</Unit>
+		<Unit filename="/home/jyc/myproject/Newlibs/socketinterface.h">
+			<Option target="Newcaps"/>
+		</Unit>
+		<Unit filename="/home/jyc/myproject/Newlibs/tcp.c">
+			<Option target="Newcaps"/>
+		</Unit>
+		<Unit filename="/home/jyc/myproject/Newlibs/tcp.h">
+			<Option target="Newcaps"/>
+		</Unit>
+		<Unit filename="/home/jyc/myproject/Newlibs/util.c">
+			<Option target="Newcaps"/>
+		</Unit>
+		<Unit filename="/home/jyc/myproject/Newlibs/util.h">
+			<Option target="Newcaps"/>
+		</Unit>
+		<Unit filename="/home/jyc/myproject/Newlibs/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

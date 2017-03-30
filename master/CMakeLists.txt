@@ -1,0 +1,7 @@
+cmake_minimum_required(VERSION 3.6)
+project(Master)
+include_directories(/usr/local/include /usr/lib/glib-2.0/include  /usr/lib/x86_64-linux-gnu/glib-2.0/include /usr/include/glib-2.0 /usr/lib/x86_64-linux-gnu/glib-2.0/include)
+set(CMAKE_CXX_STANDARD 11)
+set(CMAKE_RUNTIME_OUTPUT_DIRECTORY "/home/jyc/myproject/Master/bin/")
+add_executable(Master Master.cpp socket.cpp Protocol.h logger.h hash.h)
+target_link_libraries(Master pcap "/usr/local/lib/libglib-2.0.so" "/usr/local/lib/libgthread-2.0.so")
