@@ -347,7 +347,7 @@ void c_handle(int signum)
     printf("\nRecieved packets:%d\n",stats.ps_recv);
     printf("Dropped by kernel:%d\n",stats.ps_drop);
     printf("Dropped by filter:%d\n",stats.ps_ifdrop);
-    printf("processed by thread:%d\n",num_pro);
+    printf("processed by thread:%d\n", static_cast<int>(num_pro));
     printf("the total inputstream_count:%lld\n",inputstream_count);
     printf("the total outputstream_count:%lld\n",outputstream_count);
     printf("DNS:%d,SMTP:%d,POP3:%d,HTTP:%d,HTTPS：%d,TELNET:%d,FTP:%d\n",num_dns,num_smtp,num_pop3,num_http,num_https,num_telnet,num_ftp);

@@ -14,6 +14,9 @@
 #include <signal.h>
 #include <glib.h>
 
+// atomic_int
+#include <atomic>
+
 //udp分发的个数，默认为4
 int num_hash;
 
@@ -29,7 +32,7 @@ pcap_t *desc = NULL;
 struct pcap_stat stats;
 struct bpf_program filter;
 
-static int num_pro;
+static std::atomic_int num_pro;
 static GThreadPool *pool;
 
 int linktype;
